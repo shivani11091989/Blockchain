@@ -1,0 +1,18 @@
+[
+    {
+        "id":"1",
+        "itemName":"Item 1",
+        "itemCreator":"creator 1 address",
+        "itemOwner":"owner of item 1",
+        "askingPrice":"100",
+        "isSold":false
+    },
+    {
+        "id":"2",
+        "itemName":"Item 2",
+        "itemCreator":"creator 2 address",
+        "itemOwner":"owner of item 2",
+        "askingPrice":"200",
+        "isSold":true
+    }
+]
